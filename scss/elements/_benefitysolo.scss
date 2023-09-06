@@ -1,0 +1,55 @@
+.benefits {
+  background-color: $color-light-grey;
+  padding: 50px;
+
+  &__single{
+    background-color: $color-white;
+    height: 370px;
+    border: 1px solid #E8E9ED;
+    margin-bottom: 37px;
+    border-radius: 6px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+    &:last-of-type{
+      background-color: $color-green;
+    }
+
+  //laptop konfiguracja
+    &--notebook{
+      .benefits__image{
+        border: 3px solid red;
+        scale: 60%;
+        position: relative;
+
+      }
+    }
+    &--phone{
+      .benefits__image{
+        display: flex;
+        border: 3px solid red;
+        scale: 50%;
+        position: relative;
+
+      }
+    }
+    &--image{
+      border: 3px solid red;
+      display: block;
+      justify-content: center;
+      align-items: center;
+    }
+
+
+  }
+  &__double{
+    display: flex;
+    gap: 37px;
+    justify-content: center;
+    height: 370px;
+
+  }
+
+}

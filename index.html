@@ -8,15 +8,22 @@
     <title>BESTSHOP</title>
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Raleway:300,400,700,800&display=swap&subset=latin-ext" rel="stylesheet"/>
-    <link rel="stylesheet" href="style/reset.css">
-    <link rel="stylesheet" href="style/style.css">
+<!--    <link rel="stylesheet" href="style/reset.css">-->
+<!--    <link rel="stylesheet" href="style/style.css">-->
+    <link rel="stylesheet" href="scss/main.scss">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
 <header class="header">
     <div class="header__container container">
         <a href="#" class="logo">BestShop</a>
         <nav>
+            <input type="checkbox" class="menu__btn" id="menu__btn">
+            <label for="menu__btn" class="menu__toggle">
+                <span class="burger"></span>
+                <span class="burger"></span>
+                <span class="burger"></span>
+            </label>
             <ul class="header__nav">
                 <li class="nav__element"><a href="#why-us" class="nav__link">Why us</a></li>
                 <li class="nav__element"><a href="#benefits" class="nav__link">Benefits</a></li>
@@ -27,7 +34,6 @@
     </div>
 </header>
 
-
 <main>
     <section class="opening">
         <div class="opening__content">
@@ -35,7 +41,7 @@
             <p class="opening__heading">Open shop on our platform and increase your sales</p>
             <a href="#" class="btn btn--primary btn--large">Open your shop</a>
         </div>
-        <img src="1/Background.png" alt="" class="opening__image">
+        <img src="assets/Background.png" alt="" class="opening__image">
     </section>
 
 
@@ -45,24 +51,24 @@
 
             <div class="statistics__container">
                 <div class="statistics__single">
-                    <div class="statistics__circle">
-                        <img src="1/Person.svg" alt="person" class="statistics__img"/>
+                    <div class="statistics__circle statistics__circle-1">
+                        <img src="assets/Person.svg" alt="person" class="statistics__img"/>
                     </div>
                     <div class="statistics__number">100000+</div>
                     <div class="statistics__description">daily entries</div>
                 </div>
 
                 <div class="statistics__single">
-                    <div class="statistics__circle">
-                        <img src="1/Eye.svg" alt="person" class="statistics__img"/>
+                    <div class="statistics__circle statistics__circle-2">
+                        <img src="assets/Eye.svg" alt="person" class="statistics__img"/>
                     </div>
                     <div class="statistics__number">2000000+</div>
                     <div class="statistics__description">seen products<br>every day</div>
                 </div>
 
                 <div class="statistics__single">
-                    <div class="statistics__circle">
-                        <img src="1/Catalog.svg" alt="person" class="statistics__img"/>
+                    <div class="statistics__circle statistics__circle-3">
+                        <img src="assets/Catalog.svg" alt="person" class="statistics__img"/>
                     </div>
                     <div class="statistics__number">10000+</div>
                     <div class="statistics__description">added posts<br>daily</div>
@@ -85,7 +91,7 @@
                     </p>
                 </div>
                 <div class="benefits__image">
-                    <img src="1/Macbook.png" alt="macbook" />
+                    <img src="assets/Macbook.png" alt="macbook" />
                 </div>
             </div>
 
@@ -99,7 +105,7 @@
                     </p>
                 </div>
                 <div class="benefits__image">
-                    <img src="1/iPhone.png" alt="iPhone" />
+                    <img src="assets/iPhone.png" alt="iPhone" />
                 </div>
             </div>
 
@@ -116,7 +122,7 @@
                 </div>
 
                 <div class="benefits__single benefits__single--image">
-                    <img src="1/Trumpet.png" alt="Trumpet" />
+                    <img src="assets/Trumpet.png" alt="Trumpet" />
                 </div>
             </div>
 
@@ -188,12 +194,12 @@
             </p>
             <div class="contact__details">
                 <a href="mailto:info@bestshop.xyz" class="details__item">
-                    <img src="1/Mail%20Icon.svg" alt="mail"/>
+                    <img src="assets/Mail%20Icon.svg" alt="mail"/>
                     info@bestshop.xyz
                 </a>
 
                 <a href="tel:123456789" class="details__item">
-                    <img src="1/Phone%20Icon.svg" alt="phone"/>
+                    <img src="assets/Phone%20Icon.svg" alt="phone"/>
                     123 456 789
                 </a>
             </div>
@@ -240,8 +246,8 @@
             <span class="footer__copy">© 2019 BestShop LTD, All Rights Reserved</span>
         </div>
         <div class="footer__icons">
-            <a href="#"><img src="1/Twitter.svg" alt="twitter"/></a>
-            <a href="#"><img src="1/Facebook.svg" alt="facebook"/></a>
+            <a href="#"><img src="assets/Twitter.svg" alt="twitter"/></a>
+            <a href="#"><img src="assets/Facebook.svg" alt="facebook"/></a>
         </div>
     </div>
 </footer>
