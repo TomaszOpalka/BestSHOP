@@ -41,7 +41,7 @@
             <p class="opening__heading">Open shop on our platform and increase your sales</p>
             <a href="#" class="btn btn--primary btn--large">Open your shop</a>
         </div>
-        <img src="assets/Background.png" alt="" class="opening__image">
+        <img src="./assets/Background.png" alt="" class="opening__image">
     </section>
 
 
@@ -52,7 +52,7 @@
             <div class="statistics__container">
                 <div class="statistics__single">
                     <div class="statistics__circle statistics__circle-1">
-                        <img src="assets/Person.svg" alt="person" class="statistics__img"/>
+                        <img src="./assets/Person.svg" alt="person" class="statistics__img"/>
                     </div>
                     <div class="statistics__number">100000+</div>
                     <div class="statistics__description">daily entries</div>
@@ -60,7 +60,7 @@
 
                 <div class="statistics__single">
                     <div class="statistics__circle statistics__circle-2">
-                        <img src="assets/Eye.svg" alt="person" class="statistics__img"/>
+                        <img src="./assets/Eye.svg" alt="person" class="statistics__img"/>
                     </div>
                     <div class="statistics__number">2000000+</div>
                     <div class="statistics__description">seen products<br>every day</div>
@@ -68,7 +68,7 @@
 
                 <div class="statistics__single">
                     <div class="statistics__circle statistics__circle-3">
-                        <img src="assets/Catalog.svg" alt="person" class="statistics__img"/>
+                        <img src="./assets/Catalog.svg" alt="person" class="statistics__img"/>
                     </div>
                     <div class="statistics__number">10000+</div>
                     <div class="statistics__description">added posts<br>daily</div>
@@ -91,7 +91,7 @@
                     </p>
                 </div>
                 <div class="benefits__image">
-                    <img src="assets/Macbook.png" alt="macbook" />
+                    <img src="./assets/Macbook.png" alt="macbook" />
                 </div>
             </div>
 
@@ -105,7 +105,7 @@
                     </p>
                 </div>
                 <div class="benefits__image">
-                    <img src="assets/iPhone.png" alt="iPhone" />
+                    <img src="./assets/iPhone.png" alt="iPhone" />
                 </div>
             </div>
 
@@ -122,7 +122,7 @@
                 </div>
 
                 <div class="benefits__single benefits__single--image">
-                    <img src="assets/Trumpet.png" alt="Trumpet" />
+                    <img src="./assets/Trumpet.png" alt="Trumpet" />
                 </div>
             </div>
 
@@ -183,6 +183,73 @@
         </div>
     </section>
 
+    <section class="calc">
+        <h2>Calculate how much you’ll pay</h2>
+
+        <div class="calc__columns">
+            <form class="calc__form">
+                <div class="calc__input">
+                    <input type="number" class="form__input" id="products" min="1" step="1" placeholder="Products quantity"/>
+                </div>
+                <div class="calc__input">
+                    <input type="number" class="form__input" id="orders" min="1" step="1" placeholder="Estimated orders in month"/>
+                </div>
+                <div class="calc__select" id="package" data-value="">
+                    <div class="select__input">
+                        Choose package
+                    </div>
+
+                    <ul class="select__dropdown">
+                        <li data-value="basic">Basic</li>
+                        <li data-value="professional">Professional</li>
+                        <li data-value="premium">Premium</li>
+                    </ul>
+                </div>
+                <label class="form__checkbox">
+                    <input type="checkbox" id="accounting"/>
+                    <span class="checkbox"></span>
+                    <p class="consent__text">Accounting</p>
+                </label>
+                <label class="form__checkbox">
+                    <input type="checkbox" id="terminal"/>
+                    <span class="checkbox"></span>
+                    <p class="consent__text">Rental of a payment terminal</p>
+                </label>
+            </form>
+
+            <div class="calc__summary">
+                <ul>
+                    <li class="list__item" data-id="products">
+                        <span class="item__type">Products</span>
+                        <span class="item__calc">20 * $0.5</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                    <li class="list__item" data-id="orders">
+                        <span class="item__type">Orders</span>
+                        <span class="item__calc">20 * $0.5</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                    <li class="list__item" data-id="package">
+                        <span class="item__type">Package</span>
+                        <span class="item__calc">Premium</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                    <li class="list__item" data-id="accounting">
+                        <span class="item__type">Accounting</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                    <li class="list__item" data-id="terminal">
+                        <span class="item__type">Terminal</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                </ul>
+                <div class="summary__total" id="total-price">
+                    <span>Total</span>
+                    <span class="total__price">$700</span>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <section class="contact container" id="contact">
@@ -194,12 +261,12 @@
             </p>
             <div class="contact__details">
                 <a href="mailto:info@bestshop.xyz" class="details__item">
-                    <img src="assets/Mail%20Icon.svg" alt="mail"/>
+                    <img src="./assets/Mail%20Icon.svg" alt="mail"/>
                     info@bestshop.xyz
                 </a>
 
                 <a href="tel:123456789" class="details__item">
-                    <img src="assets/Phone%20Icon.svg" alt="phone"/>
+                    <img src="./assets/Phone%20Icon.svg" alt="phone"/>
                     123 456 789
                 </a>
             </div>
@@ -246,10 +313,12 @@
             <span class="footer__copy">© 2019 BestShop LTD, All Rights Reserved</span>
         </div>
         <div class="footer__icons">
-            <a href="#"><img src="assets/Twitter.svg" alt="twitter"/></a>
-            <a href="#"><img src="assets/Facebook.svg" alt="facebook"/></a>
+            <a href="#"><img src="./assets/Twitter.svg" alt="twitter"/></a>
+            <a href="#"><img src="./assets/Facebook.svg" alt="facebook"/></a>
         </div>
     </div>
 </footer>
+<script src="JS/app.js"></script>
+<!--defer lub type=module przed JS-->
 </body>
 </html>
