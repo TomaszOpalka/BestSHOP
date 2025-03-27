@@ -1,4 +1,4 @@
-6103
+6124
 76C:\Users\to311\BESTSHOP\node_modules\lmdb\node_modules\node-addon-api\napi.h133356209097858767 0
 73C:\Users\to311\BESTSHOP\node_modules\@parcel\core\test\fixtures\bundle.js133356209104141947 0
 72C:\Users\to311\BESTSHOP\node_modules\sass\types\value\argument_list.d.ts133356209107334704 0
@@ -48,7 +48,7 @@
 97C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\cjs\_class_static_private_field_destructure.cjs133356209102968313 0
 71C:\Users\to311\BESTSHOP\node_modules\@parcel\core\test\fixtures\plugins133356209108480190 1
 58C:\Users\to311\BESTSHOP\node_modules\csso\dist\csso.esm.js133356209106855402 0
-28C:\Users\to311\BESTSHOP\dist133874083677526632 1
+28C:\Users\to311\BESTSHOP\dist133875899620249154 1
 54C:\Users\to311\BESTSHOP\node_modules\@msgpackr-extract133356209523802946 1
 68C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\regions\DO.js133356209114692760 0
 62C:\Users\to311\BESTSHOP\node_modules\css-select\lib\index.d.ts133356209107693826 0
@@ -56,8 +56,9 @@
 102C:\Users\to311\BESTSHOP\node_modules\@parcel\package-manager\test\fixtures\packages\peers\package.json133356209104841220 0
 52C:\Users\to311\BESTSHOP\node_modules\semver\index.js133356209099453938 0
 53C:\Users\to311\BESTSHOP\node_modules\semver\README.md133356209105194178 0
-34C:\Users\to311\BESTSHOP\index.html133874083676639427 0
+34C:\Users\to311\BESTSHOP\index.html133875897064077375 0
 68C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\regions\NZ.js133356209120580070 0
+52C:\Users\to311\BESTSHOP\dist\Arrow Down.fd826e3b.svg133874086500510251 0
 69C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\_\_jsx\package.json133356209116748243 0
 45C:\Users\to311\BESTSHOP\node_modules\boolbase133356209093261621 1
 65C:\Users\to311\BESTSHOP\node_modules\nth-check\lib\index.d.ts.map133356209098351178 0
@@ -146,7 +147,7 @@
 54C:\Users\to311\BESTSHOP\node_modules\term-size\license133356209094215879 0
 57C:\Users\to311\BESTSHOP\node_modules\lmdb\src\lmdb-js.cpp133356209107972340 0
 77C:\Users\to311\BESTSHOP\node_modules\css-tree\cjs\definition-syntax\index.cjs133356209106544935 0
-39C:\Users\to311\BESTSHOP\style\style.css133338115768818724 0
+39C:\Users\to311\BESTSHOP\style\style.css133875899614876846 0
 105C:\Users\to311\BESTSHOP\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.d.ts133356209106273223 0
 71C:\Users\to311\BESTSHOP\node_modules\cosmiconfig\dist\cacheWrapper.d.ts133356209103556036 0
 60C:\Users\to311\BESTSHOP\node_modules\source-map\CHANGELOG.md133356209098638638 0
@@ -562,7 +563,7 @@
 100C:\Users\to311\BESTSHOP\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133356209111428961 0
 108C:\Users\to311\BESTSHOP\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\index.js133356209107199368 0
 69C:\Users\to311\BESTSHOP\node_modules\node-gyp-build-optional-packages133356209096072443 1
-52C:\Users\to311\BESTSHOP\dist\Background.96fc9b9b.png133874083446192621 0
+52C:\Users\to311\BESTSHOP\dist\Background.96fc9b9b.png133875899619711615 0
 57C:\Users\to311\BESTSHOP\node_modules\semver\ranges\ltr.js133356209100171267 0
 87C:\Users\to311\BESTSHOP\node_modules\csso\node_modules\css-tree\cjs\lexer\structure.cjs133356209108911303 0
 72C:\Users\to311\BESTSHOP\node_modules\dom-serializer\lib\esm\package.json133356209096301348 0
@@ -586,6 +587,7 @@
 87C:\Users\to311\BESTSHOP\node_modules\@parcel\core\test\fixtures\plugins\local-plugin.js133356209108490189 0
 47C:\Users\to311\BESTSHOP\node_modules\nullthrows133356209095733655 1
 77C:\Users\to311\BESTSHOP\node_modules\posthtml-parser\dist\location-tracker.js133356209094761493 0
+45C:\Users\to311\BESTSHOP\dist\Eye.96eed97b.svg133874086496837317 0
 77C:\Users\to311\BESTSHOP\node_modules\csso\node_modules\mdn-data\l10n\css.json133356209097547511 0
 82C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\css-unset-value.js133356209113765732 0
 72C:\Users\to311\BESTSHOP\node_modules\htmlnano\lib\modules\mergeStyles.js133356209098789472 0
@@ -656,7 +658,7 @@
 70C:\Users\to311\BESTSHOP\node_modules\mdn-data\css\at-rules.schema.json133356209096619709 0
 53C:\Users\to311\BESTSHOP\node_modules\lmdb\src\dbi.cpp133356209107825023 0
 50C:\Users\to311\BESTSHOP\node_modules\react-refresh133356209097278988 1
-49C:\Users\to311\BESTSHOP\dist\Catalog.8507218e.svg133874083445980379 0
+49C:\Users\to311\BESTSHOP\dist\Catalog.8507218e.svg133875899620196666 0
 74C:\Users\to311\BESTSHOP\node_modules\source-map\lib\source-map-consumer.js133356209097674629 0
 80C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\css-when-else.js133356209113810371 0
 55C:\Users\to311\BESTSHOP\node_modules\css-what\readme.md133356209099453938 0
@@ -1050,7 +1052,7 @@
 65C:\Users\to311\BESTSHOP\node_modules\@parcel\source-map\README.md133356209100480205 0
 74C:\Users\to311\BESTSHOP\node_modules\@parcel\utils\src\progress-message.js133356209106668907 0
 89C:\Users\to311\BESTSHOP\node_modules\css-select\node_modules\entities\lib\escape.d.ts.map133356209104871235 0
-53C:\Users\to311\BESTSHOP\dist\BESTSHOP.3464ddca.js.map133874083677526632 0
+53C:\Users\to311\BESTSHOP\dist\BESTSHOP.3464ddca.js.map133875899619638106 0
 114C:\Users\to311\BESTSHOP\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133356209106210483 0
 89C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\src\_class_extract_field_descriptor.mjs133356209118259367 0
 62C:\Users\to311\BESTSHOP\node_modules\@parcel\watcher-win32-x64133356209094441121 1
@@ -1659,6 +1661,7 @@
 60C:\Users\to311\BESTSHOP\node_modules\react-error-overlay\lib133356209092672403 1
 64C:\Users\to311\BESTSHOP\node_modules\react-error-overlay\LICENSE133356209091461965 0
 102C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133356209118239148 0
+52C:\Users\to311\BESTSHOP\dist\Background.1895b8cc.png133874086495305798 0
 74C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\streams.js133356209121995272 0
 56C:\Users\to311\BESTSHOP\node_modules\js-yaml\lib\type.js133356209102992341 0
 64C:\Users\to311\BESTSHOP\node_modules\binary-extensions\readme.md133356209095321621 0
@@ -1899,6 +1902,7 @@
 74C:\Users\to311\BESTSHOP\node_modules\@parcel\transformer-babel\src\flow.js133356209098053913 0
 58C:\Users\to311\BESTSHOP\node_modules\glob-parent\README.md133356209095321621 0
 96C:\Users\to311\BESTSHOP\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133356209104451149 0
+47C:\Users\to311\BESTSHOP\dist\Close.6b74f64e.svg133874086500510251 0
 84C:\Users\to311\BESTSHOP\node_modules\@parcel\core\test\fixtures\main-format-mismatch133356209112846035 1
 61C:\Users\to311\BESTSHOP\node_modules\nth-check\lib\parse.d.ts133356209102123088 0
 59C:\Users\to311\BESTSHOP\node_modules\nth-check\lib\parse.js133356209096373027 0
@@ -2397,7 +2401,7 @@
 107C:\Users\to311\BESTSHOP\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\value.js133356209110789364 0
 87C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133356209101248763 0
 79C:\Users\to311\BESTSHOP\node_modules\lightningcss\node\browserslistToTargets.js133356209096730617 0
-52C:\Users\to311\BESTSHOP\dist\Phone Icon.b10af3a5.svg133874083446172583 0
+52C:\Users\to311\BESTSHOP\dist\Phone Icon.b10af3a5.svg133875899620065339 0
 78C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\videotracks.js133356209122985998 0
 79C:\Users\to311\BESTSHOP\node_modules\json-parse-even-better-errors\package.json133356209092652400 0
 87C:\Users\to311\BESTSHOP\node_modules\css-select\node_modules\entities\lib\esm\encode.js133356209098769514 0
@@ -2422,6 +2426,7 @@
 99C:\Users\to311\BESTSHOP\node_modules\csso\node_modules\css-tree\cjs\syntax\node\DeclarationList.cjs133356209103441269 0
 57C:\Users\to311\BESTSHOP\node_modules\is-glob\package.json133356209093735883 0
 55C:\Users\to311\BESTSHOP\node_modules\json5\lib\index.js133356209094899154 0
+48C:\Users\to311\BESTSHOP\dist\Person.0c3c6baa.svg133874086500510251 0
 89C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\_\_class_private_field_set\package.json133356209115699455 0
 55C:\Users\to311\BESTSHOP\node_modules\json5\lib\parse.js133356209096254467 0
 90C:\Users\to311\BESTSHOP\node_modules\@parcel\optimizer-svgo\node_modules\csso\package.json133356209105528578 0
@@ -2730,7 +2735,7 @@
 68C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\regions\TW.js133356209122664964 0
 60C:\Users\to311\BESTSHOP\node_modules\@parcel\optimizer-image133356209110199256 1
 78C:\Users\to311\BESTSHOP\node_modules\css-tree\lib\syntax\node\ClassSelector.js133356209111369667 0
-50C:\Users\to311\BESTSHOP\dist\index.0a930569.js.map133874083446212660 0
+50C:\Users\to311\BESTSHOP\dist\index.0a930569.js.map133875899619638106 0
 56C:\Users\to311\BESTSHOP\node_modules\fill-range\index.js133356209092765421 0
 60C:\Users\to311\BESTSHOP\node_modules\fill-range\package.json133356209091506103 0
 87C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\font-variant-numeric.js133356209116466842 0
@@ -2794,7 +2799,7 @@
 83C:\Users\to311\BESTSHOP\node_modules\electron-to-chromium\full-chromium-versions.js133356209094584708 0
 92C:\Users\to311\BESTSHOP\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133356209112750961 0
 76C:\Users\to311\BESTSHOP\node_modules\electron-to-chromium\full-versions.json133356209097914631 0
-51C:\Users\to311\BESTSHOP\dist\Checkmark.c57fbd17.svg133874083446172583 0
+51C:\Users\to311\BESTSHOP\dist\Checkmark.c57fbd17.svg133875899620196666 0
 68C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\regions\MV.js133356209120243660 0
 67C:\Users\to311\BESTSHOP\node_modules\@parcel\core\lib\loadDotEnv.js133356209108145835 0
 66C:\Users\to311\BESTSHOP\node_modules\electron-to-chromium\index.js133356209096323851 0
@@ -2872,7 +2877,7 @@
 62C:\Users\to311\BESTSHOP\node_modules\domhandler\lib\index.d.ts133356209096758229 0
 54C:\Users\to311\BESTSHOP\node_modules\csso\lib\index.js133356209107483592 0
 90C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133356209113113437 0
-51C:\Users\to311\BESTSHOP\dist\Mail Icon.b0bc1804.svg133874083446000422 0
+51C:\Users\to311\BESTSHOP\dist\Mail Icon.b0bc1804.svg133875899620196666 0
 100C:\Users\to311\BESTSHOP\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\index.js133356209098779471 0
 66C:\Users\to311\BESTSHOP\node_modules\domelementtype\lib\index.d.ts133356209097468144 0
 66C:\Users\to311\BESTSHOP\node_modules\domhandler\lib\index.d.ts.map133356209095583706 0
@@ -3610,7 +3615,7 @@
 73C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\beacon.js133356209106534499 0
 67C:\Users\to311\BESTSHOP\node_modules\@parcel\transformer-js\LICENSE133356209091596307 0
 74C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\dist\unpacker\feature.js133356209115900637 0
-48C:\Users\to311\BESTSHOP\dist\iPhone.18df9ac3.png133874083446033857 0
+48C:\Users\to311\BESTSHOP\dist\iPhone.18df9ac3.png133875899619711615 0
 97C:\Users\to311\BESTSHOP\node_modules\css-select\node_modules\entities\lib\decode_codepoint.js.map133356209100576836 0
 91C:\Users\to311\BESTSHOP\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js.map133356209103232360 0
 81C:\Users\to311\BESTSHOP\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133356209107060035 0
@@ -3821,7 +3826,7 @@
 66C:\Users\to311\BESTSHOP\node_modules\css-select\lib\esm\compile.js133356209097089575 0
 86C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\keyboardevent-which.js133356209118933116 0
 68C:\Users\to311\BESTSHOP\node_modules\css-select\lib\esm\general.d.ts133356209107488649 0
-48C:\Users\to311\BESTSHOP\dist\Person.e8721018.svg133874083446000422 0
+48C:\Users\to311\BESTSHOP\dist\Person.e8721018.svg133875899620196666 0
 72C:\Users\to311\BESTSHOP\node_modules\css-select\lib\esm\general.d.ts.map133356209104451149 0
 114C:\Users\to311\BESTSHOP\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines133356209112980053 1
 66C:\Users\to311\BESTSHOP\node_modules\css-select\lib\esm\index.d.ts133356209107581603 0
@@ -3934,6 +3939,7 @@
 50C:\Users\to311\BESTSHOP\node_modules\chalk\license133356209091533392 0
 55C:\Users\to311\BESTSHOP\node_modules\chalk\package.json133356209095642826 0
 58C:\Users\to311\BESTSHOP\node_modules\chalk\source\index.js133356209093043572 0
+47C:\Users\to311\BESTSHOP\dist\index.78cc32dd.css133875899619711615 0
 57C:\Users\to311\BESTSHOP\node_modules\chalk\source\util.js133356209094899154 0
 70C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\src\_await_value.mjs133356209118106134 0
 84C:\Users\to311\BESTSHOP\node_modules\@parcel\core\lib\requests\BundleGraphRequest.js133356209105179578 0
@@ -4010,6 +4016,7 @@
 82C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\esm\_class_private_method_get.js133356209111226524 0
 68C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\regions\EC.js133356209115116847 0
 68C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\regions\EE.js133356209115127374 0
+50C:\Users\to311\BESTSHOP\dist\index.2a2c4c30.js.map133874086501173123 0
 75C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\testfeat.js133356209122270760 0
 68C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\regions\EG.js133356209115152410 0
 68C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\regions\ER.js133356209115626038 0
@@ -4350,6 +4357,7 @@
 85C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\font-unicode-range.js133356209116430589 0
 75C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\fontface.js133356209116478280 0
 62C:\Users\to311\BESTSHOP\node_modules\binary-extensions\license133356209091377160 0
+52C:\Users\to311\BESTSHOP\dist\Phone Icon.528198e1.svg133874086496837317 0
 91C:\Users\to311\BESTSHOP\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133356209096716331 0
 81C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\form-attribute.js133356209116488340 0
 82C:\Users\to311\BESTSHOP\node_modules\caniuse-lite\data\features\form-validation.js133356209116513865 0
@@ -4600,6 +4608,7 @@
 54C:\Users\to311\BESTSHOP\node_modules\@trysound\sax\lib133356209092597259 1
 63C:\Users\to311\BESTSHOP\node_modules\@trysound\sax\package.json133356209094315097 0
 46C:\Users\to311\BESTSHOP\node_modules\@swc\core133356209102735671 1
+50C:\Users\to311\BESTSHOP\dist\Facebook.846f8f5f.svg133874086496893516 0
 57C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\LICENSE133356209091461965 0
 62C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\package.json133356209117918279 0
 57C:\Users\to311\BESTSHOP\node_modules\@swc\helpers\scripts133356209114314634 1
@@ -5059,6 +5068,7 @@
 69C:\Users\to311\BESTSHOP\node_modules\@parcel\utils\src\http-server.js133356209102779123 0
 64C:\Users\to311\BESTSHOP\node_modules\@parcel\utils\src\is-url.js133356209105999142 0
 75C:\Users\to311\BESTSHOP\node_modules\@parcel\utils\src\isDirectoryInside.js133356209106082084 0
+51C:\Users\to311\BESTSHOP\dist\index.0ed1862c.css.map133874086501173123 0
 71C:\Users\to311\BESTSHOP\node_modules\@parcel\utils\src\openInBrowser.js133356209106344391 0
 72C:\Users\to311\BESTSHOP\node_modules\@parcel\utils\src\parseCSSImport.js133356209106388776 0
 62C:\Users\to311\BESTSHOP\node_modules\@parcel\utils\src\path.js133356209106450543 0
@@ -6078,20 +6088,31 @@
 64C:\Users\to311\BESTSHOP\node_modules\.bin\update-browserslist-db133356209123943088 0
 68C:\Users\to311\BESTSHOP\node_modules\.bin\update-browserslist-db.cmd133356209123943088 0
 68C:\Users\to311\BESTSHOP\node_modules\.bin\update-browserslist-db.ps1133356209123943088 0
-52C:\Users\to311\BESTSHOP\dist\Arrow Down.c28de5be.svg133874083446000422 0
-49C:\Users\to311\BESTSHOP\dist\BESTSHOP.3464ddca.js133874083677505166 0
-53C:\Users\to311\BESTSHOP\dist\Checkmark-1.22a0eaf4.svg133874083446172583 0
-47C:\Users\to311\BESTSHOP\dist\Close.22110c7d.svg133874083445980379 0
-45C:\Users\to311\BESTSHOP\dist\Eye.e60e75e7.svg133874083446172583 0
-50C:\Users\to311\BESTSHOP\dist\Facebook.389b15e8.svg133874083446172583 0
-46C:\Users\to311\BESTSHOP\dist\index.0a930569.js133874083446172583 0
-47C:\Users\to311\BESTSHOP\dist\index.574c7455.css133874083446000422 0
-51C:\Users\to311\BESTSHOP\dist\index.574c7455.css.map133874083446115427 0
-39C:\Users\to311\BESTSHOP\dist\index.html133874083677505166 0
-49C:\Users\to311\BESTSHOP\dist\Macbook.a1f4b436.png133874083446192621 0
-49C:\Users\to311\BESTSHOP\dist\Trumpet.041da3b3.png133874083446172583 0
+52C:\Users\to311\BESTSHOP\dist\Arrow Down.c28de5be.svg133875899620196666 0
+49C:\Users\to311\BESTSHOP\dist\BESTSHOP.3464ddca.js133875899619558244 0
+49C:\Users\to311\BESTSHOP\dist\Catalog.abfe5a51.svg133874086500500286 0
+53C:\Users\to311\BESTSHOP\dist\Checkmark-1.22a0eaf4.svg133875899620215548 0
+53C:\Users\to311\BESTSHOP\dist\Checkmark-1.28bfcb6d.svg133874086496903531 0
+51C:\Users\to311\BESTSHOP\dist\Checkmark.1e9dc075.svg133874086496903531 0
+47C:\Users\to311\BESTSHOP\dist\Close.22110c7d.svg133875899620065339 0
+45C:\Users\to311\BESTSHOP\dist\Eye.e60e75e7.svg133875899620065339 0
+50C:\Users\to311\BESTSHOP\dist\Facebook.389b15e8.svg133875899620065339 0
+46C:\Users\to311\BESTSHOP\dist\index.0a930569.js133875899619558244 0
+47C:\Users\to311\BESTSHOP\dist\index.0ed1862c.css133874086501133256 0
+46C:\Users\to311\BESTSHOP\dist\index.2a2c4c30.js133874086501133256 0
+47C:\Users\to311\BESTSHOP\dist\index.574c7455.css133875899619711615 0
+51C:\Users\to311\BESTSHOP\dist\index.574c7455.css.map133875899619711615 0
+51C:\Users\to311\BESTSHOP\dist\index.78cc32dd.css.map133875899619711615 0
+39C:\Users\to311\BESTSHOP\dist\index.html133875899619445385 0
+48C:\Users\to311\BESTSHOP\dist\iPhone.40b461c3.png133874086499187205 0
+49C:\Users\to311\BESTSHOP\dist\Macbook.108ab6ad.png133874086495305798 0
+49C:\Users\to311\BESTSHOP\dist\Macbook.a1f4b436.png133875899619711615 0
+51C:\Users\to311\BESTSHOP\dist\Mail Icon.5dba18a2.svg133874086500510251 0
+49C:\Users\to311\BESTSHOP\dist\Trumpet.041da3b3.png133875899619711615 0
+49C:\Users\to311\BESTSHOP\dist\Trumpet.c01ce98a.png133874086495305798 0
 42C:\Users\to311\BESTSHOP\assets\Twitter.svg133314607462169586 0
-49C:\Users\to311\BESTSHOP\dist\Twitter.41e2b00a.svg133874083446000422 0
+49C:\Users\to311\BESTSHOP\dist\Twitter.41e2b00a.svg133875899620196666 0
+49C:\Users\to311\BESTSHOP\dist\Twitter.902cb362.svg133874086500510251 0
 42C:\Users\to311\BESTSHOP\assets\Catalog.svg133314607462129732 0
 44C:\Users\to311\BESTSHOP\assets\Checkmark.svg133314607462129732 0
 43C:\Users\to311\BESTSHOP\assets\Facebook.svg133314607462150460 0
